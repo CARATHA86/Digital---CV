@@ -5,7 +5,7 @@ Software engineer based in Vietnam
 
 [Email](mailto:duy.cybers@gmail.com) / [Website](https://www.facebook.com/tranhuynhanduy/) / [LinkedIn](https://www.linkedin.com/in/anduytranhuynh/) / [GitHub](https://github.com/andylovecloud/) 
 
-## 👩🏼‍💻 Engineering Experience
+## 👩🏼‍💻 Engineering Experience.
 IT Operation Lead for Asia Pacific @Robert Bosch Vietnam (Feb 2017 - Present)
 
 - Leading team to maintain the customer administration tool for Bosch
