@@ -1,30 +1,19 @@
 
 # Tran Thi Thach Thao (Cara )
 
-Software engineer based in Vietnam 
+ Freelance in Vietnam 
 
-[Email](mailto:duy.cybers@gmail.com) / [Website](https://www.facebook.com/tranhuynhanduy/) / [LinkedIn](https://www.linkedin.com/in/anduytranhuynh/) / [GitHub](https://github.com/andylovecloud/) 
+[Email](tranthithachthao86@gmail.com) 
 
-## 👩🏼‍💻 Engineering Experience.
-IT Operation Lead for Asia Pacific @Robert Bosch Vietnam (Feb 2017 - Present)
+## Freelance  Experience.
 
-- Leading team to maintain the customer administration tool for Bosch
-- Planning resource, timeline, execution for every new requirements, changes in system
-- Documention for operation manual.
+-Freelance business from 2012 -2023
 
+##  Education
 
-## 🏆 Accomplishments
+- Bachelor of chemistry  at HUI university.
 
-- Best performance in department in 2020
-- Win 02 Project Management Awards in 2021
-
-
-## 👩🏼‍🎓 Education
-
-- Bachelor of Information Technology at HBU university
-
-
-## 💬 Languages
+## Languages
 
 - Vietnameses: Native
 - English
